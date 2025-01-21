@@ -1,8 +1,17 @@
-# React + Vite
+# CRUD Users in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that implements **CRUD operations** for managing users. It allows users to:
+- **Create** new users
+- **Read** a list of users
+- **Update** existing user information
+- **Delete** users from the list
 
-Currently, two official plugins are available:
+### Components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Navbar**: The navigation bar component with links and routing functionality.
+- **Create**: new users
+- **user**: Displays all user & can delete user & update
+- **Home**: The homepage layout and structure.
+- **Footer**: A footer component 
+
+
