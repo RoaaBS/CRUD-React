@@ -1,0 +1,41 @@
+.card-container{
+    margin-top: 5%;
+    display:flex;
+    justify-content: space-between;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+.card{
+    width: 20%;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.card-body h5{
+font-weight: 300;
+color: rgb(52, 50, 50);
+text-align: center;
+}
+.card-body p{
+    font-size: 14px;
+    font-weight: 200;
+    color: rgb(70, 71, 70);
+}
+.details{
+   margin-left: 30px;
+    background-color: rgb(158, 190, 153);
+    color: white;
+    border-color: rgb(158, 190, 153);
+    margin-right: 10px;
+    width: 50px;
+    height: 100px;
+    border-radius: 2px;
+    padding: 5px;
+    text-decoration: none;
+}
+.delete{
+    background-color: rgb(126, 122, 122);
+    color: white;
+    border-color: rgb(126, 122, 122);
+
+}

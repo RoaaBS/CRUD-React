@@ -1,0 +1,12 @@
+.form-floating label{
+   color:rgb(158, 190, 153);
+    font-size: 16px;
+    font-weight: 300;
+}
+.form-floating input{
+  margin-top: 20px;
+}
+.btn{
+  background-color:rgb(158, 190, 153);
+  
+}
